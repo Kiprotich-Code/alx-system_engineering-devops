@@ -1,2 +1,2 @@
 #!/bin/bash
-find .
+find . -emptyy -printf %f'n'
