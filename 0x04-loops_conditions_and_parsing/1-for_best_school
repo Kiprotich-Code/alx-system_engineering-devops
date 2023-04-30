@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
 # This script is displaying "Best School" 10 times
-for LIST in [1..10]; do 
-	echo "Best School"; 
-done
+for LIST in range(10):
+	print("Best School")
