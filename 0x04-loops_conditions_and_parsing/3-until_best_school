@@ -1,5 +1,5 @@
-#!/bin/usr/env bash
-# Script uses until to output 'Best School' 10 times
+#!/usr/bin/env bash
+#Script uses until to output 'Best School' 10 times
 
 index=0
 
