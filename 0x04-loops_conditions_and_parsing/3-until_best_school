@@ -1,0 +1,10 @@
+#!/bin/usr/env bash
+# Script uses until to output 'Best School' 10 times
+
+index=0
+
+until [ $index -eq 10 ]
+do
+	echo "Best School"
+	((index++))
+done
